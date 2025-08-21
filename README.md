@@ -1,1 +1,0 @@
-# snapreceipt-support
