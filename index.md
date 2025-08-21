@@ -10,5 +10,4 @@ If you need help, have questions, or want to provide feedback, please email us a
 
 We will do our best to respond to you as soon as possible.
 
----
 *A link to your Privacy Policy can also be added here for convenience.*
